@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co/rRq0wqLb/1212132.png" />
+  <img height="300" src="IMG_20250813_171428_249.jpg" />
 </div>
 
 # 👋 Hi, I'm Mehedi
@@ -45,5 +45,4 @@
 </div>
 
 ---
-
-*Made with ❤️ — keep coding, keep vibing.*
+___

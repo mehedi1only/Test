@@ -19,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="28" alt="css" />&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="28" alt="js" />&nbsp;
   <img src="https://skillicons.dev/icons?i=python" height="28" alt="python" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=termux" height="28" alt="termux" />&nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="28" alt="git" />&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="28" alt="github" />
 </div>
